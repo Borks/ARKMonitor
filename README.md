@@ -1,3 +1,8 @@
+# Obsolete
+
+Unfortunately Transpordiamet no longer publishes data about free exam slots,
+which this script relied on, so it is no longer functional.
+
 # ARKMonitor
 
 Monitor Estonian DMV driving exam slots, provide notifications via Twilio.
